@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.article {
+    padding-left: 10px;
+    padding-right: 10px;
+    border-left: 1px solid gray;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+
+.hidden {
+    display: none;
+}
+
+.get-cocktails {
+    font-size: 2em;
+    border: 2px solid darkcyan;
+}
